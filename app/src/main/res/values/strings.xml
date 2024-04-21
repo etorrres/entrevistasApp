@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">entrevistasApp</string>
+    <string name="titleEntrevista">Nueva Entrevista</string>
+    <string name="tomarFoto">Tomar una foto</string>
+    <string name="Descripcion">Descripción</string>
+    <string name="descrip">Descripción de la entrevista</string>
+    <string name="Periodista">Nombre del periodista</string>
+    <string name="fechaEntrev">Fecha de la entrevista</string>
+    <string name="formatoDate">DD/MM/YY</string>
+    <string name="selectPhoto">Seleccionar imagen</string>
+    <string name="record">Grabar entrevista</string>
+    <string name="save">Guardar entrevista</string>
+</resources>

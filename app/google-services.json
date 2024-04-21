@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "878429789074",
+    "project_id": "entrevistas-39d27",
+    "storage_bucket": "entrevistas-39d27.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:878429789074:android:11104517c1382148b8bf4b",
+        "android_client_info": {
+          "package_name": "com.example.entrevistasapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt3xMnHjW8D2jjfAZMS2p12EYsMDZ8dM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
